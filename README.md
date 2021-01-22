@@ -5,7 +5,7 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/HENDRABot Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RavaAchmad"><img title="Author" src="https://img.shields.io/badge/AUTHOR-HENDRA-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Hendra088"><img title="Author" src="https://img.shields.io/badge/AUTHOR-HENDRA088-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/RavaAchmad/followers"><img title="Followers" src="https://img.shields.io/github/followers/RavaAchmad?color=blue&style=flat-square"></a>
 <a href="https://github.com/RavaAchmad/GaroxBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RavaAchmad/GaroxBot?color=red&style=flat-square"></a>
